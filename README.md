@@ -10,6 +10,6 @@ Problems are organized by difficulty (`easy/`, `medium/`, `hard/`), then by cate
 
 | Problem | Difficulty | Category | Area | Performance |
 |---------|------------|----------|------|--------|
-| [Divide by Evens Clock Generator](easy/sequential/divide_by_evens_clock_generator/) | Easy | Sequential | 60% | 60% |
-| [Polynomial 1 - Area](easy/combinational/polynomial_1_area/) | Easy | Combinational | 76.7% | 17.4% |
-| [Polynomial 1 - Perf](easy/combinational/polynomial_1_perf/) | Easy | Combinational | 21.5% | 71.2% |
+| [Divide by Evens Clock Generator](easy/sequential/divide_by_evens_clock_generator.sv/) | Easy | Sequential | 60% | 60% |
+| [Polynomial 1 - Area](easy/combinational/polynomial_1_area.sv/) | Easy | Combinational | 76.7% | 17.4% |
+| [Polynomial 1 - Perf](easy/combinational/polynomial_1_perf.sv/) | Easy | Combinational | 21.5% | 71.2% |
