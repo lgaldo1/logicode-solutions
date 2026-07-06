@@ -10,6 +10,8 @@ For some problems I've included two solutions, `area.sv` and `performance.sv`, t
 
 | Problem | Difficulty | Category | Area | Performance |
 |---------|------------|----------|------|--------|
+| [Counter - Area](easy/sequential/counter_area.sv/) | Easy | Sequential | 94.4% | 72.2% |
+| [Counter - Perf](easy/sequential/counter_perf.sv/) | Easy | Sequential | 54.2% | 86.1% |
 | [Divide by Evens Clock Generator](easy/sequential/divide_by_evens_clock_generator.sv/) | Easy | Sequential | 60% | 60% |
 | [Polynomial 1 - Area](easy/combinational/polynomial_1_area.sv/) | Easy | Combinational | 76.7% | 17.4% |
 | [Polynomial 1 - Perf](easy/combinational/polynomial_1_perf.sv/) | Easy | Combinational | 21.5% | 71.2% |
