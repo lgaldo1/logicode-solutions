@@ -2,7 +2,7 @@
 
 Logicode is LeetCode for hardware, simulating against real testbenches. Submissions are also ranked by area and performance.
 
-Problems are organized by difficulty (`easy/`, `medium/`, `hard/`), then by category (`combinational/`, `sequential/`). For some problems I've included two solutions, `area.sv` and `performance.sv`, to show the trade-off between resource usage and speed. Area and performance numbers are percent of users beat at time of submission.
+For some problems I've included two solutions, `area.sv` and `performance.sv`, to show the trade-off between resource usage and speed. Area and performance numbers are percent of users beat at time of submission.
 
 ---
 
